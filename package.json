@@ -1,0 +1,19 @@
+{
+  "name": "project_tracking_database",
+  "version": "1.0.0",
+  "description": "Webserver for a database user interface to track project progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usquabae/project_tracking_database.git"
+  },
+  "author": "T Pryor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usquabae/project_tracking_database/issues"
+  },
+  "homepage": "https://github.com/Usquabae/project_tracking_database#readme"
+}
