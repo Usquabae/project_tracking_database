@@ -1,0 +1,19 @@
+div {
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+H1{
+    font-size: large;
+    color: red;
+}
+
+h2{
+    color: darkgreen;
+    font-weight: lighter;
+}
+
+.container{
+    background-color: cornflowerblue;
+}
